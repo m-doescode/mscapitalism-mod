@@ -9,7 +9,7 @@ This repository is under construction! Expect no content for a while...
 
 m-doescode and egl1000's Capitalism Mod (or mscapitalism for short, fun fact: those are our first initials!) is a mod for Minecraft: Java Edition on Forge.
 
-It proports to add meony storage, land (property), shop machines and more!
+It proports to add money storage, land (property), shops (cash registers, stock frame, etc.) and more!
 
 Build your own civilization and economy with our mod!
 
