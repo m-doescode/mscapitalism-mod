@@ -1,4 +1,6 @@
-<p align="center">
+
+
+<!--<p align="center">
   <img src="https://github.com/m-doescode/mscapitalism-mod/blob/master/md-files/ms-capitalism%20icon.png?raw=true" />
 </p>
 <h1 align="center">m-doescode and egl1000's Capitalism Mod</h1>
@@ -15,4 +17,8 @@ Build your own civilization and economy with our mod!
 
 ## Begin Date
 
-No date has been assigned for when we will begin work. This is subject to change.
+No date has been assigned for when we will begin work. This is subject to change.-->
+
+Oops!
+
+The repo for mscapitalism is available here: [ M-n-S-projects/mscapitalism ](https://github.com/M-n-S-projects/mscapitalism)
